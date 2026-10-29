@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Console/Console.csproj" Id="94b68a42-7391-4d09-9410-86cbe09f1b20" />
+  <Project Path="Task1/Task1.csproj" Id="b2996689-c742-4470-970f-c7ade8739a60" />
+  <Project Path="Task1Console/Task1Console.csproj" Id="8e6aac13-4bac-494c-accd-8b1bdd0fe184" />
+  <Project Path="Task1WF/Task1WF.csproj" Id="9e4dcf0a-c73b-477f-923e-ee2ef5dfedaa" />
+  <Project Path="Task2/Task2.csproj" Id="4aabd2cd-87c0-4990-bbd2-24a1d66ddb37" />
+  <Project Path="Task2Console/Task2Console.csproj" Id="6e1a6b16-270f-4d9f-8627-2db354d94926" />
+  <Project Path="Task2WF/Task2WF.csproj" Id="0203a9d7-1de5-4492-82f4-0be8b1cee6b5" />
+  <Project Path="Task3/Task3.csproj" Id="d44618f0-646b-49e6-93ac-f6fadc45f344" />
+  <Project Path="Task3Console/Task3Console.csproj" Id="028c8e77-6516-42a1-8445-4a5e476aa8e7" />
+  <Project Path="Task3WF/Task3WF.csproj" Id="31159622-ba62-4f7c-8b2a-3c21aa39e351" />
+  <Project Path="WFUI/WFUI.csproj" Id="224c3b3a-cfaa-4a10-a765-80171df2f2f1" />
+</Solution>
